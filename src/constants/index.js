@@ -61,7 +61,7 @@ const experiences = [
     company_name: "Astra Tech",
     icon: AstraTech,
     iconBg: "#383E56",
-    date: "March 2023 - present",
+    date: "",
     points: [
       "Developing and maintaining web applications using js, Vue.js, Nuxt.js and React.js, Next.js, Mongo db, Node.js, and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -76,7 +76,7 @@ const experiences = [
     company_name: "Nathan & Nathan",
     icon: nathan,
     iconBg: "#383E56",
-    date: "june 2023 - march 2024",
+    date: "",
     points: [
       "Developing and maintaining web applications using js, Vue.js, Nuxt.js and React.js, Next.js, Mongo db, Node.js, and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -90,7 +90,7 @@ const experiences = [
     company_name: "Repairdesk",
     icon: repairdesk,
     iconBg: "#383E56",
-    date: "Nov 2020 - October",
+    date: "",
     points: [
       "Developing and maintaining web applications using js, Vue.js and React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -103,7 +103,7 @@ const experiences = [
     company_name: "Softsquare",
     icon: softsquare,
     iconBg: "#383E56",
-    date: "June 2019 - Nov 2020",
+    date: "",
     points: [
       "Developing and maintaining web applications using Vue.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
