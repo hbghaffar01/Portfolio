@@ -103,7 +103,7 @@ const experiences = [
     company_name: "Softsquare",
     icon: softsquare,
     iconBg: "#383E56",
-    date: "June 2020 - Nov 2020",
+    date: "June 2019 - Nov 2020",
     points: [
       "Developing and maintaining web applications using Vue.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
