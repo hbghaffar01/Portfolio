@@ -92,7 +92,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "",
     points: [
-      "Developing and maintaining web applications using js, Vue.js and React.js and other related technologies.",
+      "Developing and maintaining web applications using js, Vue.js and React.js, Node.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in scrum, User Feedback analysis.",
@@ -105,7 +105,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "",
     points: [
-      "Developing and maintaining web applications using Vue.js and other related technologies.",
+      "Developing and maintaining web applications using js, Vue.js and React.js, Node.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in  scrums, code reviews and providing constructive feedback to other developers.",
