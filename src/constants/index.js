@@ -57,7 +57,7 @@ const services = [
 
 const experiences = [
   {
-    title: "Frontend Engineer",
+    title: "Software Engineer",
     company_name: "Astra Tech",
     icon: AstraTech,
     iconBg: "#383E56",
@@ -72,7 +72,7 @@ const experiences = [
     ],
   },
   {
-    title: "Frontend Engineer",
+    title: "Software Engineer",
     company_name: "Nathan & Nathan",
     icon: nathan,
     iconBg: "#383E56",
@@ -86,7 +86,7 @@ const experiences = [
     ],
   },
   {
-    title: "Frontend Engineer",
+    title: "Software Engineer",
     company_name: "Repairdesk",
     icon: repairdesk,
     iconBg: "#383E56",
@@ -99,7 +99,7 @@ const experiences = [
     ],
   },
   {
-    title: "Associate Frontend Engineer",
+    title: "Associate Web Engineer",
     company_name: "Softsquare",
     icon: softsquare,
     iconBg: "#383E56",
